@@ -4,5 +4,5 @@ TensorFlow is probably the most important framework when talking about deep lear
 
 First things first, I am turning basic, starting off with two books. LET'S GO! **in Robert Frank's voice**
 
-1- "Practical  Computer Vision Applications Using Deep Learning with CNNs" by Ahmed Fawzy Gad - Chapter 6 "TensorFlow Recognition Application" 
-2- "Pro Deep Learning with TensorFlow" (A Mathematical Approach to Advanced Artificial Intelligence in Python) by Santanu Pattanayak.
+- "Practical  Computer Vision Applications Using Deep Learning with CNNs" by Ahmed Fawzy Gad - Chapter 6 "TensorFlow Recognition Application". 
+- "Pro Deep Learning with TensorFlow" (A Mathematical Approach to Advanced Artificial Intelligence in Python) by Santanu Pattanayak.
