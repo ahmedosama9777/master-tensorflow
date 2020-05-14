@@ -1,4 +1,4 @@
-# Masterning TensorFlow
+# Mastering TensorFlow
 
 TensorFlow is probably the most important framework when talking about deep learning. This repo contains my baby steps towards mastering such a framework entirely!
 
